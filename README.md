@@ -43,7 +43,7 @@ async def main():
 asyncio.run(main())
 ```
  
-<img alt="vision_agent" height="300px" src="https://github.com/user-attachments/assets/ffaa0bb0-d413-4af4-95ac-289130a31553">
+<img alt="vision_agent" height="450px" src="https://github.com/user-attachments/assets/ffaa0bb0-d413-4af4-95ac-289130a31553">
 
 ## API
 
@@ -88,3 +88,5 @@ asyncio.run(main())
 你可以根据你的具体需求和项目特点来调整这个 README。一个好的 README 应该能让用户快速了解你的项目是做什么的，如何安装和使用，以及如何贡献到项目中。
 
 记得随着项目的发展不断更新 README，保持信息的及时性和准确性。
+
+BY MIku Team
