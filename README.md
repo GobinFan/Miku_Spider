@@ -1,8 +1,14 @@
 <div align="center">
     <img alt="vision_agent" height="200px" src="https://hellomiku.com/img/logo.png"> 
-    关于MIKU，AI MIKU是基于Multiagent的AI搜索引擎，旨在为用户提供准确、定制和实时的答案。了解更多欢迎访问：hellomiku.com ,开头强调一下这个MIKU
+      
 # Miku Spider
 </div>
+
+## 关于MIKU
+MIKU是一个基于多智能体(Multiagent)技术的创新AI搜索引擎，致力于为用户提供准确、个性化和实时的搜索结果。作为MIKU生态系统的重要组成部分，Miku Spider专注于高效爬取和处理微信公众号文章。
+
+## Miku Spider 简介
+了解更多关于MIKU的信息，请访问：[hellomiku.com](https://hellomiku.com)
 Miku Spider 是一个用于搜索和获取微信公众号文章的 Python 工具。它使用异步方法来提高效率，能够快速获取指定关键词的相关文章信息。
 
 ## 特性
