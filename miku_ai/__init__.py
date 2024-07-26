@@ -1,0 +1,1 @@
+from .spider import get_wexin_article
