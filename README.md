@@ -1,6 +1,5 @@
 <div align="center">
-    <img alt="vision_agent" height="200px" src="https://hellomiku.com/img/logo.png">
-    <img alt="vision_agent" height="100px" src="https://mp.weixin.qq.com/favicon.ico">
+    <img alt="MIku" height="200px" src="https://hellomiku.com/img/logo.png"> 
  
 # Miku Spider
 </div>
