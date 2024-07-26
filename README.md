@@ -2,6 +2,8 @@
     <img alt="vision_agent" height="200px" src="https://hellomiku.com/img/logo.png"> 
       
 # Miku Spider
+中文 | [**English**](https://github.com/GobinFan/Miku_Spider/blob/main/README_EN.md)
+
 </div>
 
 ## 关于MIKU
