@@ -45,9 +45,9 @@ async def main():
 
 asyncio.run(main())
 ```
-<div align="center">
-    <img alt="MIKU" height="450px" src="https://github.com/user-attachments/assets/43c36777-9eb2-4f42-95c0-ea3c02e9dd74"> 
-</div>
+ 
+<img alt="MIKU" height="450px" src="https://github.com/user-attachments/assets/43c36777-9eb2-4f42-95c0-ea3c02e9dd74"> 
+
  
 
 ## API
