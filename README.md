@@ -46,7 +46,8 @@ async def main():
 asyncio.run(main())
 ```
  
-<img alt="MIKU" height="450px" src="https://github.com/user-attachments/assets/43c36777-9eb2-4f42-95c0-ea3c02e9dd74"> 
+<img alt="MIKU" height="450px" src="https://github.com/user-attachments/assets/4aa6339d-4873-4c15-a7d4-81aa2ff92b14"> 
+ 
 
  
 
