@@ -68,18 +68,4 @@ Issues and pull requests are welcome to help improve this project.
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-This README contains the following main sections:
-1. Project introduction
-2. Main features
-3. Installation guide
-4. Usage methods and sample code
-5. API description
-6. Notes
-7. Contribution guidelines
-8. License information
-
-You can adjust this README according to your specific needs and project characteristics. A good README should allow users to quickly understand what your project does, how to install and use it, and how to contribute to the project.
-
-Remember to continually update the README as the project evolves, maintaining the timeliness and accuracy of the information.
-
 From MIKU Team
